@@ -38,6 +38,8 @@
 - [GitHub Help Documentation](https://help.github.com/)
 - [GitHub Enterprise Documentation](https://help.github.com/enterprise/)
 - [Enterprise Support](https://enterprise.github.com/support)
+  
+### Changes from Trainee
 
 #### Git and IDEs Webcasts
 
